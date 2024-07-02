@@ -4,32 +4,45 @@ Université de Montréal
 Département d’informatique et de recherche opérationnelle
 Devoir 1
 Les étudiants doivent fournir un projet java (code source + documentation en javadoc), dont le sujet est présenté dans la suite du document.
+
 I. Informations générales :
   Session
+
 Date de début Date de remise
+
 Été 2024
 25/06/2024
 14/07/2024 avant minuit
     
+
 Directives
+
 • Il y aura une pénalité de 10% par jour de retard (maximum 3 jours de retard).
 • Les contestations des notes seront acceptées pendant les deux semaines suivantes l’affichage de celles-là sur le StudiUM
 II. Objectifs du devoir :
+
 Valider les compétences de la première partie du cours par l’écriture d’un programme en manipulant les différentes notions vues en cours et en travaux pratiques.
+
 III. Organisation :
+
 Le travail doit se faire en binôme.
+
 IV. Ce qu'il faut rendre :
+
 1. Le code source complet bien commenté (le projet au complet).
 2. Un rapport présentant le travail effectué (en .pdf au maximum 3
 pages).
+
 V.
+
 a) Dégager toutes les classes.
 b) Dégager les constructeurs nécessaires dans chaque classe.
 c) Dégager les membres de chaque classe.
 d) Expliquer le mode d’emploi du programme.
 e) Bilan qualitatif du travail, difficultés rencontrées, critiques et
 suggestions.
-Évaluation du projet : ❖ Les critères d’évaluation sont :
+Évaluation du projet : 
+❖ Les critères d’évaluation sont :
 1. Le programme source :
 • Respect de l’énoncé – 5%
 2. Qualité de conception/technique :
@@ -40,8 +53,11 @@ Indentation, commentaires (JavaDoc) et nommage (conventions d’identificateur) 
 4. Documentation fournie (rapport) – 20% :
 a. Organisation du programme et son mode d’emploi. b. Bilan.
 Présentation du devoir :
+
 VI.
+
 Vous devrez réaliser un programme permettant de gérer un horaire d’étudiant.
+
 VII. Description du devoir :
 Le modèle à mettre contiendra les classes, dont les champs contiennent au minimum les informations suivantes.
 
